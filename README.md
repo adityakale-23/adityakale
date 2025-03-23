@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kaleaditya743@gmail.com**
 
-- ⚡ Fun fact **http://127.0.0.1:3004/rajaprerak.github.io-master/index.html**
+- Resume **http://127.0.0.1:3004/rajaprerak.github.io-master/index.html**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
